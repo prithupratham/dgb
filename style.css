@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: green;
+}
+
+.menu {
+    background-color: aqua;
+}
+
+img {
+    border-radius: 30px;
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+h4 {
+    color:firebrick;
+}
